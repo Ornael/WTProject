@@ -1,11 +1,10 @@
-// Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyCCfaekdsfBDm4Z3cB5H47JBiG4a4EblnQ",
-  authDomain: "wtproject-c2bc5.firebaseapp.com",
-  projectId: "wtproject-c2bc5",
-  storageBucket: "wtproject-c2bc5.appspot.com",
-  messagingSenderId: "848642989242",
-  appId: "1:848642989242:web:f000a52f2d85635cb27683"
+  apiKey: "AIzaSyChGO9bnKdVlcf8EBiWLvBn__J-I0MlcEY",
+  authDomain: "wtproject-49b66.firebaseapp.com",
+  projectId: "wtproject-49b66",
+  storageBucket: "wtproject-49b66.appspot.com",
+  messagingSenderId: "539344713706",
+  appId: "1:539344713706:web:5b8146c7ac565de75be493"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
